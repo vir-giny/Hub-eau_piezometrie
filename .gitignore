@@ -1,0 +1,12 @@
+# Environnement virtuel
+.venv/
+
+# Variables locales et secrets
+.env
+
+# Fichiers générés par Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Données brutes téléchargées
+data/raw/
