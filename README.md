@@ -30,8 +30,7 @@ dans un rayon de 50 km autour de Valence (Drôme), à partir de l'API publique H
 
 ## Utilisation
 
-Ouvrir `notebooks/Notebook_Data-eau_00_API.ipynb` dans VS Code
-et sélectionner le kernel `.venv`.
+Ouvrir le notebook dans VS Code et sélectionner le kernel `.venv`.
 
 ## Statut
 
