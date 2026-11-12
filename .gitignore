@@ -10,3 +10,7 @@ __pycache__/
 
 # Données brutes téléchargées
 data/raw/
+
+# Données traitées (générées par les notebooks) : on garde seulement le dossier
+data/processed/*
+!data/processed/.gitkeep
