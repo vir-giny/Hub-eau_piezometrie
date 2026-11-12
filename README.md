@@ -30,7 +30,11 @@ dans un rayon de 50 km autour de Valence (Drôme), à partir de l'API publique H
 
 ## Utilisation
 
-Ouvrir le notebook dans VS Code et sélectionner le kernel `.venv`.
+Ouvrir les notebooks dans VS Code, sélectionner le kernel `.venv`, puis les exécuter dans l'ordre :
+
+1. `notebooks/01_stations.ipynb` : stations piézométriques autour de Valence
+2. `notebooks/02_chroniques.ipynb` : téléchargement de l'historique des niveaux de nappe, enregistré à l'état brut (lit le CSV produit par le 01)
+
 
 ## Statut
 
