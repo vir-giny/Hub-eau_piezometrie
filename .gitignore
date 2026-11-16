@@ -14,3 +14,6 @@ data/raw/
 # Données traitées (générées par les notebooks) : on garde seulement le dossier
 data/processed/*
 !data/processed/.gitkeep
+
+# Données intermédiaires (générées par les notebooks 02) : on garde seulement le dossier
+data/inter/*
