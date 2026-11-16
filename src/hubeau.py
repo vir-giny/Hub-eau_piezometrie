@@ -1,7 +1,7 @@
 """
 Fonctions utilitaires pour interroger l'API Hub'Eau (piézométrie).
 
-Utilisé par les notebooks 01_stations et 02_chroniques.
+Utilisé par les notebooks 01_collectAPI_stations et 01_collectAPI_chroniques.
 """
 
 import math
